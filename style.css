@@ -1,0 +1,13 @@
+.bottom {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-top: 30px;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
